@@ -1,12 +1,12 @@
 ---
-title: "Lines of Python code blink steadily"
+title: "Slowly Finding My Rhythm"
 date: 2025-03-04
 draft: false
 ---
 
-![DataCamp Python Developer Progress](/images/Image1.png)
+![DataCamp Python Developer Progress](/images/datacamp-python.png)
 
-### "Slowly Finding My Rhythm"
+### Stepping Stones to the Unknown
 
 One month ago, I stepped into the labyrinth. Artificial Intelligence and Machine Learning were these towering concepts I didn’t fully understand, like puzzles too complex to solve. At first, every line of code felt clumsy, every tutorial left me more confused than before. It was overwhelming, almost paralyzing. Who was I kidding? This wasn’t my world.
 
