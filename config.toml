@@ -1,0 +1,42 @@
+baseURL = 'https://hnfpr.github.io/'
+languageCode = 'en-us'
+title = "Putra's Void"  # Changed to double quotes to handle the apostrophe
+theme = 'hugo-bearcub'
+
+# Menu configuration
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Blog"
+  url = "/posts/"
+  weight = 2
+
+[params]
+  # Basic settings
+  description = "My personal blog"
+  favicon = "favicon.ico"
+  dateFormat = "2006-01-02"
+  hideMadeWithLine = false
+
+  [params.author]
+    name = "Hanif Putra"
+    email = ""  # You can add your email here if you want
+  
+  # Blog settings
+  showPostsOnHomePage = true
+  numberOfRecentPosts = 5
+  showTags = true
+  showRss = true
+
+  # Color scheme
+  colorScheme = "auto"
+
+  # Social links
+  github = "hnfpr"         # Your GitHub username
+  # twitter = "yourusername"  # Your Twitter username
+  # linkedin = "yourusername" # Your LinkedIn username
