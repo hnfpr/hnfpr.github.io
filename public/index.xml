@@ -6,8 +6,15 @@
     <description>Recent content on Putra&#39;s Void</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Mar 2025 22:57:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lines of Python code blink steadily</title>
+      <link>http://localhost:1313/posts/ai/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ai/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Image1.png&#34; alt=&#34;DataCamp Python Developer Progress&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;slowly-finding-my-rhythm&#34;&gt;&amp;ldquo;Slowly Finding My Rhythm&amp;rdquo;&lt;/h3&gt;&#xA;&lt;p&gt;One month ago, I stepped into the labyrinth. Artificial Intelligence and Machine Learning were these towering concepts I didn’t fully understand, like puzzles too complex to solve. At first, every line of code felt clumsy, every tutorial left me more confused than before. It was overwhelming, almost paralyzing. Who was I kidding? This wasn’t my world.&lt;/p&gt;&#xA;&lt;p&gt;But then, something shifted. Maybe it was stubbornness or just sheer curiosity, but I kept going. DataCamp became my guide—a map through the chaos. Slowly, pieces started falling into place. Neural networks began to make sense. Models trained. Patterns emerged from randomness. For the first time in years, I felt… alive. Like I was building something real, even if it was small.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Into 28: The Silent Echoes of Progress</title>
       <link>http://localhost:1313/posts/into-28/</link>
