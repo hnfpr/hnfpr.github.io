@@ -1,18 +1,21 @@
 {{ define "main" }}
-<content>
-    <ul class="blog-posts">
-        {{ range .Site.RegularPages }}
-        <li>
-            <span>
-                <i>
-                    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
-                        {{ .Date.Format "2006-01-02" }}
-                    </time>
-                </i>
-            </span>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
-        {{ end }}
-    </ul>
-</content>
+<article class="post">
+    {{ .Content }}
+</article>
+
+<h2>Recent Posts</h2>
+<ul class="blog-posts">
+    {{ range first 5 .Site.RegularPages }}
+    <li>
+        <span>
+            <i>
+                <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+                    {{ .Date.Format "2006-01-02" }}
+                </time>
+            </i>
+        </span>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+</ul>
 {{ end }}
