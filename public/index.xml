@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Putra&#39;s Void</title>
-    <link>http://localhost:61166/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Putra&#39;s Void</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:61166/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Bookworm to Actually Enjoying Workouts</title>
+      <link>http://localhost:1313/posts/workout/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/workout/</guid>
+      <description>&lt;p&gt;Let’s keep it real: I’ve always been the “indoor type.” Give me a good book, a sketchpad, and a cozy blanket, and I’m set for hours. But lately, my body started staging protests. The “Bali belly” (you know, that stubborn pooch from too many desk snacks and Netflix nights) was getting loud . Plus, I’d get winded walking up stairs. Not cute.&lt;/p&gt;&#xA;&lt;p&gt;So, I did what any self-respecting introvert would do: I panicked, then Googled “how to not feel like a couch potato.” Turns out, the answer was simpler than I thought—move more, but like, barely .&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Slowly Finding My Rhythm</title>
-      <link>http://localhost:61166/posts/artificial/</link>
+      <link>http://localhost:1313/posts/artificial/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61166/posts/artificial/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:61166/images/datacamp-python.png&#34; alt=&#34;DataCamp Python Developer Progress&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;stepping-stones-to-the-unknown&#34;&gt;Stepping Stones to the Unknown&lt;/h3&gt;&#xA;&lt;p&gt;One month ago, I stepped into the labyrinth. Artificial Intelligence and Machine Learning were these towering concepts I didn’t fully understand, like puzzles too complex to solve. At first, every line of code felt clumsy, every tutorial left me more confused than before. It was overwhelming, almost paralyzing. Who was I kidding? This wasn’t my world.&lt;/p&gt;&#xA;&lt;p&gt;But then, something shifted. Maybe it was stubbornness or just sheer curiosity, but I kept going. DataCamp became my guide—a map through the chaos. Slowly, pieces started falling into place. Neural networks began to make sense. Models trained. Patterns emerged from randomness. For the first time in years, I felt… alive. Like I was building something real, even if it was small.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/artificial/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/datacamp-python.png&#34; alt=&#34;DataCamp Python Developer Progress&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;stepping-stones-to-the-unknown&#34;&gt;Stepping Stones to the Unknown&lt;/h3&gt;&#xA;&lt;p&gt;One month ago, I stepped into the labyrinth. Artificial Intelligence and Machine Learning were these towering concepts I didn’t fully understand, like puzzles too complex to solve. At first, every line of code felt clumsy, every tutorial left me more confused than before. It was overwhelming, almost paralyzing. Who was I kidding? This wasn’t my world.&lt;/p&gt;&#xA;&lt;p&gt;But then, something shifted. Maybe it was stubbornness or just sheer curiosity, but I kept going. DataCamp became my guide—a map through the chaos. Slowly, pieces started falling into place. Neural networks began to make sense. Models trained. Patterns emerged from randomness. For the first time in years, I felt… alive. Like I was building something real, even if it was small.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Into 28: The Silent Echoes of Progress</title>
-      <link>http://localhost:61166/posts/into-28/</link>
+      <link>http://localhost:1313/posts/into-28/</link>
       <pubDate>Sat, 01 Mar 2025 22:57:00 +0800</pubDate>
-      <guid>http://localhost:61166/posts/into-28/</guid>
+      <guid>http://localhost:1313/posts/into-28/</guid>
       <description>&lt;h3 id=&#34;episode-1-first-impact-the-beginning&#34;&gt;Episode 1: First Impact &amp;ldquo;The Beginning&amp;rdquo;&lt;/h3&gt;&#xA;&lt;p&gt;Life got away from me. For years, I was just&amp;hellip; surviving. Work drained me, parenthood overwhelmed me, and somewhere in all the chaos, I stopped dreaming. I told myself it was fine—that I didn’t have time or energy for anything else. But deep down? I knew I was lying to myself.&lt;/p&gt;&#xA;&lt;p&gt;I wasted so much time doing nothing meaningful. Scrolling through my phone, watching dumb shows, avoiding anything that felt hard or scary. And now, here I am at 28, staring at this gaping hole where passions and goals used to be. It’s suffocating sometimes—the thought that I let life pass me by while everyone else seemed to figure theirs out.&lt;/p&gt;</description>
     </item>
   </channel>
