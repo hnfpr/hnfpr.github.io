@@ -6,4 +6,4 @@ draft: false
 
 Tend to be more productive when I'm doing something I enjoy. I just launch a new project, and it went alright nothing else.
 
-try my Pomodoro App with Task List on [PMDR0](https://www.pmdr0.netlify.com)
+try my Pomodoro App with Task List on [PMDR0](https://www.pmdr0.netlify.app)
