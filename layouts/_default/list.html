@@ -1,7 +1,7 @@
 {{ define "main" }}
 <content>
     <ul class="blog-posts">
-        {{ range .Pages }}
+        {{ range .Pages.ByDate.Reverse }}
         <li>
             <span>
                 <i>
