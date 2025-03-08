@@ -1,6 +1,6 @@
 ---
-title: "Teamfight Tactics Sharpens Your Decision-Making (And Makes You Better at Your Job)"
-date: 2025-03-09
+title: "Teamfight Tactics Sharpens Your Decision-Making"
+date: 2025-03-08
 draft: false
 ---
 
